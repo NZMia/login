@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="file://$PROJECT_DIR$" libraries="{login/node_modules}" />
+    <file url="PROJECT" libraries="{bcryptjs-DefinitelyTyped, connect-flash-DefinitelyTyped, express-DefinitelyTyped, express-handlebars-DefinitelyTyped, express-session-DefinitelyTyped, express-validator-DefinitelyTyped, jQuery-2.0.0, jquery-DefinitelyTyped, mongodb-DefinitelyTyped, mongoose-DefinitelyTyped, mongoose-promise-DefinitelyTyped, node-DefinitelyTyped, passport-DefinitelyTyped, passport-local-DefinitelyTyped, passport-local-mongoose-DefinitelyTyped, passport-strategy-DefinitelyTyped, password-hash-DefinitelyTyped}" />
+    <includedPredefinedLibrary name="Node.js Core" />
+    <includedPredefinedLibrary name="login/node_modules" />
+  </component>
+</project>
